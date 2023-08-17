@@ -5,7 +5,6 @@ step 1:  Data preprocessing
         1) CMI-9859: 80% training set, 10% test set, 10% verification set.
         2) CMI-9905: 80% training set, 10% test set, 10% verification set.
         3) CMI-20208:80% training set, 10% test set, 10% verification set.
-    (2) CaseStudy_negative_sample:  Work on the data set for the case study
 
 step 2:  Feature extraction
     (1) attribute:  Attribute feature extraction
