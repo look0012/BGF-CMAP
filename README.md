@@ -36,11 +36,6 @@ step 3:  Model training and prediction
             The prediction of the training of each model
          2) GBDT_draw:
             Draw the ROC curve and PR curve of the LAP model
-    (4)LINE_CLF: Training and prediction of BGF-CMAP-LINE model
-        1) 0/1/2/3/4:
-            The prediction of the training of each model
-        2) GBDT_draw:
-            Draw the ROC curve and PR curve of the BGF-CMAP-LINE model
 
 
 requirements:
